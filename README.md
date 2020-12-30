@@ -29,7 +29,8 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" alt="MySQL"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" alt="PostegreSQL"/></code>
-
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" alt="Firebird" /></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" alt="SqLite" /></code>
 <br/>
 
 
