@@ -46,6 +46,8 @@
 <code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
 <code><img height="32" src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-hyper-v-239752-med.png" alt="Hyper-V"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1600990517/10627/ubuntu.png?1600990517" alt="Hyper-V"/></code>
+<code><img height="32" src="https://img.mandic.com.br/blog/2017/05/continuous-delivery.png" alt="Continuous Delivery"/></code>
+
 
 
 
