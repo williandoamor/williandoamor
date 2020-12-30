@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello visitor, I hope you have forgotten your towel.
 
 
 ### where I am: 
@@ -31,6 +31,8 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" alt="Firebird" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" alt="SqLite" /></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" /></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1532555621/4296/mongodb.png?1532555621" alt="Mongo" /></code>
 <br/>
 
 
