@@ -34,7 +34,11 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1532555621/4296/mongodb.png?1532555621" alt="Mongo" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" alt="SpringBoot" /></code>
+
 <br/>
+<br/>
+
+**DevOps**
 
 
 
