@@ -40,7 +40,12 @@
 
 **DevOps**
 
-
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
+<code><img height="32" src="https://reskytnew.s3.amazonaws.com/221/micgrup-telecomunicacions-sl-hyper-v-239752-med.png" alt="Hyper-V"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1600990517/10627/ubuntu.png?1600990517" alt="Hyper-V"/></code>
 
 
 
