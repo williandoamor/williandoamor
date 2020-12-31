@@ -57,7 +57,7 @@
 
 **My Codes**
 
-<p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=williandoamor&show_icons=true&theme=dracula" alt="Mitsu325's github stats" /> </p>
+<p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=williandoamor&show_icons=true&theme=dracula&count_private=true" alt="Willian do Amor's github stats" /> </p>
 
 <p align="left">
   <a href="https://badges.pufler.dev">
