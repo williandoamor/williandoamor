@@ -20,6 +20,7 @@
 **Developer at**
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" alt="Java"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" alt="Firebird" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" alt="Javascript"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470342937/707/angular.png?1470342937" alt="Angular"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" alt="Typescript"/></code>
@@ -28,7 +29,6 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" alt="MySQL"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" alt="Firebird" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" alt="SqLite" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" alt="Kotlin" /></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" alt="SpringBoot" /></code>
@@ -51,10 +51,12 @@
 
 **Business Tools**
 
-<br/>
-<br/>
-<br/>
-<br/>
+<code><img height="32" src="https://blog.acelerato.com/wp-content/uploads/2018/10/BMP.jpg" alt="BPM"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+
+
+**My Codes**
+
 
 
 <p align="left">
