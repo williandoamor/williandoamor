@@ -1,4 +1,4 @@
-### Hello visitor, I hope you have forgotten your towel.
+### Hello visitor, I hope you haven't forgotten your towel.
 
 
 ### where I am: 
