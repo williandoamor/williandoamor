@@ -46,9 +46,17 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1600990517/10627/ubuntu.png?1600990517" alt="Hyper-V"/></code>
 <code><img height="32" src="https://img.mandic.com.br/blog/2017/05/continuous-delivery.png" alt="Continuous Delivery"/></code>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-
+<p align="left">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/williandoamor/williandoamor" alt="Contador de Visitantes" />
+   </a>
+</p>
 
 
 
