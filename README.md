@@ -59,6 +59,10 @@
 
 <p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=williandoamor&show_icons=true&theme=dracula&count_private=true" alt="Willian do Amor's github stats" /> </p>
 
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?williandoamor=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/williandoamor/williandoamor" alt="Contador de Visitantes" />
