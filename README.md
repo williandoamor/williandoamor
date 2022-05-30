@@ -8,7 +8,7 @@
 </a>
 
 
-<a href="mailto:willsazon@gmail.com">
+<a href="mailto:wdatecnologiatp@gmail.com">
   <code><img alt="My address e-mail" width="32" src="https://www.iconfinder.com/icons/7101527/download/png/512" /></code>
 </a>
 
